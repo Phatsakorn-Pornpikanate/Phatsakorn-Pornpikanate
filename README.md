@@ -2,8 +2,6 @@
 
 <p align="center">
 <b>Computer Science Student</b> @ [Thammasat University]  
-<br>
-<b>Interested in </b>AI • Software Engineer • Machine Learning
 <br><br>
 <a href="mailto:phaskorn139@gmail.com">Email</a> • 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> • 
