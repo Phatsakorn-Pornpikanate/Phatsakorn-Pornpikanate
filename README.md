@@ -14,7 +14,6 @@
 
 🎓 2nd-year Computer Science Student  
 💡 Passionate about AI, Data Analytics, and Intelligent Systems  
-🧩 Building smart camera projects & analytics tools  
 🔍 Currently exploring opportunities in AI/Software Development  
 </div>
 
