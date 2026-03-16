@@ -4,8 +4,8 @@
 <b>Computer Science Student</b> @ [Thammasat University]  
 <br><br>
 <a href="mailto:phaskorn139@gmail.com">Email</a> • 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> • 
-<a href="https://YOUR-PORTFOLIO.com">Portfolio</a>
+<a href="">LinkedIn</a> • 
+<a href="">Portfolio</a>
 </p>
 
 ---
